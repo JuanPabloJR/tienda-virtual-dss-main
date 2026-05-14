@@ -305,4 +305,4 @@ Al finalizar tendras:
 - Frontend React + Vite
 - Pruebas unitarias y E2E
 - CodeQL activo
-- GitHub Actions ejecutando Cypress solo en PR `develop -> main`
+- GitHub Actions ejecutando Cypress solo en PR `develop -> main` JP
